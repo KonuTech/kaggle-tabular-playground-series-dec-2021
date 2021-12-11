@@ -6,3 +6,5 @@ seaborn==0.11.2
 catboost==1.0.3
 sortedcontainers==2.4.0
 scikit-learn==1.0.1
+autoviz==0.1.24
+dask==2021.12.0
