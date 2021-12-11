@@ -1,0 +1,28 @@
+{
+  "INPUTS": {
+    "TRAIN_PATH": [
+      "train.csv"
+    ],
+    "TEST_PATH": [
+      "test.csv"
+    ],
+    "TARGET": "Cover_Type",
+    "SEPARATOR": ",",
+    "DECIMAL": "TODO",
+    "ENCODING": "utf-8",
+    "FLOAT_PRECISION": "TODO",
+    "INDEX_COLUMNS": [
+      "Id"
+    ],
+    "DATE_COLUMNS": [
+      "TODO"
+    ],
+    "COLUMNS_WITH_NAN_VALUES": [
+      "TODO"
+      ],
+    "DTYPE": {
+      "Cover_Type": "int64",
+      "TODO": "TODO"
+    }
+  }
+}
